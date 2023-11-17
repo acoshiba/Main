@@ -1,0 +1,1 @@
+Health is increased by 100 points for 60 seconds
